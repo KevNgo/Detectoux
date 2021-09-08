@@ -1,0 +1,176 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>DETECTOUX.md</title><style></style></head><body id="preview">
+<h1 class="code-line" data-line-start=0 data-line-end=1><a id="DETECTOUX_0"></a>DETECTOUX</h1>
+<hr>
+<p class="has-line-data" data-line-start="3" data-line-end="4">Application <strong>web</strong> qui détecte la présence de <strong>COVID-19</strong> via la toux. L’utilisateur s’enregistre simplement en toussant pour avoir un résultat.</p>
+<hr>
+<h2 class="code-line" data-line-start=6 data-line-end=7><a id="Statut_du_projet_6"></a>Statut du projet</h2>
+<h3 class="code-line" data-line-start=8 data-line-end=9><a id="Objectifs_atteints_8"></a><code>Objectifs atteints</code></h3>
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th style="text-align:left">Taches</th>
+<th style="text-align:center">Statut</th>
+<th style="text-align:right">Avancement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Elaboration des diagrammes</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+<tr>
+<td style="text-align:left">BDD</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+<tr>
+<td style="text-align:left">Fonction traitement du son</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+<tr>
+<td style="text-align:left">Coder fonction traitement du son</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+<tr>
+<td style="text-align:left">Trouver/ adapter modèle ML</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+<tr>
+<td style="text-align:left">Normaliser données à tester</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+<tr>
+<td style="text-align:left">Interface site mobile</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+<tr>
+<td style="text-align:left">Interface site web</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+<tr>
+<td style="text-align:left">Ppt soutenance</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+<tr>
+<td style="text-align:left">Expension BDD</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+<tr>
+<td style="text-align:left">Projet global</td>
+<td style="text-align:center">Terminé</td>
+<td style="text-align:right">100%</td>
+</tr>
+</tbody>
+</table>
+<h3 class="code-line" data-line-start=24 data-line-end=25><a id="Axes_damlioration_24"></a>Axes d’amélioration</h3>
+<ul>
+<li class="has-line-data" data-line-start="26" data-line-end="27">Permettre au client de contribuer à la Base de donnée</li>
+<li class="has-line-data" data-line-start="27" data-line-end="29">Rendre le site Responsive pour une utilisation mobile efficace</li>
+</ul>
+<hr>
+<h2 class="code-line" data-line-start=31 data-line-end=32><a id="Instruction_dinstallation__utilisation_31"></a>Instruction d’installation &amp; utilisation</h2>
+<p class="has-line-data" data-line-start="33" data-line-end="34"><strong>DETECTOUX</strong></p>
+<h3 class="code-line" data-line-start=35 data-line-end=36><a id="Application_Web_35"></a>Application Web</h3>
+<p class="has-line-data" data-line-start="37" data-line-end="38">-Ouvrir le code sur VSCode</p>
+<p class="has-line-data" data-line-start="39" data-line-end="40">-Dans le terminale :</p>
+<ul>
+<li class="has-line-data" data-line-start="41" data-line-end="42">npm i</li>
+<li class="has-line-data" data-line-start="42" data-line-end="44">npm run serve</li>
+</ul>
+<p class="has-line-data" data-line-start="44" data-line-end="45">-Utiliser le lien obtenu dans un navigateur web</p>
+<hr>
+<h2 class="code-line" data-line-start=47 data-line-end=48><a id="Architecture_du_Logiciel_et_du_Projet_47"></a>Architecture du Logiciel et du Projet</h2>
+<h3 class="code-line" data-line-start=49 data-line-end=50><a id="Rcupration_dune_base_de_donnes_exploitable_49"></a>Récupération d’une base de données exploitable</h3>
+<p class="has-line-data" data-line-start="50" data-line-end="51">Nous récupérons les données sur <a href="https://github.com/virufy/virufy-data/blob/main/CODE_OF_CONDUCT.md" title="Detectoux">github</a>.</p>
+<p class="has-line-data" data-line-start="53" data-line-end="54">Il contient 121 extraits sonores différents de toux labelisés positif/négatif au Covid19, ainsi que des informations dont les antécédents médicaux, les symptômes et les fumeurs. Ces toux sont celles de 17 personnes et cette base de données contient uniquement 17 lignes dans le tableau.</p>
+<h3 class="code-line" data-line-start=55 data-line-end=56><a id="Mise_en_forme_de_la_base_de_donnes_55"></a>Mise en forme de la base de données</h3>
+<p class="has-line-data" data-line-start="56" data-line-end="57">La première chose à faire a été de dupliquer les lignes pour chaque toux enregistrée jusqu’à obtenir 121 lignes contenant le nom de l’extrait audio associé.</p>
+<h3 class="code-line" data-line-start=57 data-line-end=58><a id="Traitement_du_signal_57"></a>Traitement du signal</h3>
+<p class="has-line-data" data-line-start="58" data-line-end="61">Pour extraire des informations sonores, nous utilisons la librairie librosa.<br>
+Nous avons donc utiliser les fonctions de librosa pour récupérer de nombreuses informations issues entre autres de la fréquence et du spectre.<br>
+Ces données sont ensuite ajoutées au tableau de données.</p>
+<h3 class="code-line" data-line-start=61 data-line-end=62><a id="Ajout_de_bruit_dans_nos_donnes_61"></a>Ajout de bruit dans nos données</h3>
+<p class="has-line-data" data-line-start="62" data-line-end="63">Afin de doubler notre volume de données, nous avons utilisé des extraits existants auxquels nous avons ajouté du bruit et les avons traités comme de nouvelles données jusqu’à atteindre 284 lignes dans notre tableau de données.</p>
+<h3 class="code-line" data-line-start=64 data-line-end=65><a id="Normalisation_et_exploration_des_donnes_64"></a>Normalisation et exploration des données</h3>
+<p class="has-line-data" data-line-start="65" data-line-end="69">Les paramètres catégoriques ne sont pas exploitables pour certains modèles, il est donc nécessaire de les passer en données numériques.<br>
+Nous utilisons la fonction LabelEncoder() de la librairie Scikit Learn pour les catégories binaires.<br>
+Concernant les catégories « symptômes » et « antécédents », nous avons attribuer manuellement des valeurs numériques en suivant une hiérarchie selon nos propres hypothèses.<br>
+Nous utilisons en suite les librairies matplotlib.pyplot et seaborn afin de visualiser une matrice de corrélations des paramètres. Cela nous permet de repérer les paramètres très fortement corrélés pour n’en garder qu’un par groupe et alléger les temps de traitement.</p>
+<p class="has-line-data" data-line-start="70" data-line-end="72">Ensuite, nous avons utilisé la fonction de mise à l’échelle MinMax de Scikit Learn pour les paramètres sonores contenant des valeurs négatives. Ceci est un prérequis pour la fonction SelectKBest de Scikit Learn qui nous permet de recherchés les paramètres les plus significatifs vis-à-vis du label « has_Covid19 ».<br>
+On ne garde alors que ceux qui obtiennent un score important dans notre tableau de données.</p>
+<h3 class="code-line" data-line-start=73 data-line-end=74><a id="Recherche_de_modles_dapprentissage_73"></a>Recherche de modèles d’apprentissage</h3>
+<p class="has-line-data" data-line-start="74" data-line-end="76">Nous avons suivi les recommandations de Scikit Learn en essayant dans l’ordre des modèles : SVM, KNN et Decision Tree Classifiers.<br>
+Les premiers résultats étant peu encourageants(&lt;66%), nous avons retravaillé au fur et à mesure les données que nous utilisons pour entrainer ces modèles.</p>
+<p class="has-line-data" data-line-start="77" data-line-end="79">Une fois un score intéressant obtenu sur le testset avec le modèle Decision Tree Classifier (environ 85%), nous avons utilisé la validation croisée afin de tester différentes combinaisons aléatoires de traintest et testset et en sortir une précision moyenne(94%).<br>
+Toujours dans l’optique d’améliorer ce modèle, nous testons et visualisons une courbe pour déterminer sur une fourchette de [1 :30] la valeur de l’hyperparamètre « max_depth » qui donne le meilleur score. On peut voir qu’à partir de max_depth = 9, le score du trainset est maximale et celui du testset stagne autour de 93%.</p>
+<p class="has-line-data" data-line-start="80" data-line-end="83">Enfin, nous utilisons la fonction GridSearchCV de Scikit Learn permettant de rechercher la meilleur combinaison d’hyperparamètres du modèle qui nous retourne un score de 97% sur le trainset et un score de 96% sur le testset.<br>
+Les hyperparamètres sont réglés sur : {‘criterion’: ‘entropy’, ‘max_depth’: 9, ‘splitter’: ‘best’}<br>
+Finalement, nous utilisons une matrice de confusion qui nous retourne que les erreurs de prédictions concernent des faux positifs. Ce qui est moins contraignant qu’un faux négatif pour ce type de prédiction.</p>
+<h3 class="code-line" data-line-start=84 data-line-end=85><a id="Estimation_de_la_quantit_de_donnes_suffisante_84"></a>Estimation de la quantité de données suffisante</h3>
+<p class="has-line-data" data-line-start="86" data-line-end="87">Grace à la fonction learning_curve de Scikit Learn, nous visualisons le taux d’aprentissage qui nous permet de savoir si notre modèle pourrait être améliorer en augmentant le volume de données recueilli. La courbe nous montre que nous n’avons pas atteint le maximum. Dans un contexte agile, cette base de données serait encore augmentée jusqu’à atteindre ce maximum au-delà duquel le score n’augmenterait plus.</p>
+<h3 class="code-line" data-line-start=89 data-line-end=90><a id="Dveloppement_web_89"></a>Développement web</h3>
+<p class="has-line-data" data-line-start="91" data-line-end="93">Lorsque l’on ouvre le site Detectoux, nous arrivons sur la page d’accueil de celui-ci. De cette page, l’utilisateur peut commencer la procédure de test en cliquant sur le bouton « Je me teste ».<br>
+La première étape est un formulaire à remplir afin d’obtenir des résultats plus précis. Une fois les informations récupérées, l’utilisateur est dirigé vers la page d’enregistrement de la toux. Sur cette page, il enregistre sa toux, peut l’écouter et l’enregistrer de nouveau si besoin. Il accède ensuite au diagnostic : il est alors dirigé vers la page de résultats négatif ou positif selon le résultat de l’analyse. Pour finir, il peut retourner sur la page d’accueil s’il souhaite se tester à nouveau ou alors tester une autre personne.</p>
+<hr>
+<h2 class="code-line" data-line-start=95 data-line-end=96><a id="Technologies_utilises_95"></a>Technologies utilisées</h2>
+<h3 class="code-line" data-line-start=97 data-line-end=98><a id="Management_de_projet_et_outil_de_production_97"></a>Management de projet et outil de production</h3>
+<ul>
+<li class="has-line-data" data-line-start="99" data-line-end="100">Git</li>
+<li class="has-line-data" data-line-start="100" data-line-end="101">Vs code</li>
+<li class="has-line-data" data-line-start="101" data-line-end="102">Audacity</li>
+<li class="has-line-data" data-line-start="102" data-line-end="103">Jupyter</li>
+<li class="has-line-data" data-line-start="103" data-line-end="105">Spyder</li>
+</ul>
+<h3 class="code-line" data-line-start=105 data-line-end=106><a id="Machine_learning_et_gestion_des_donnes_105"></a>Machine learning et gestion des données</h3>
+<ul>
+<li class="has-line-data" data-line-start="106" data-line-end="107">librosa</li>
+<li class="has-line-data" data-line-start="107" data-line-end="108">ffmpeg</li>
+<li class="has-line-data" data-line-start="108" data-line-end="109">matplotlib</li>
+<li class="has-line-data" data-line-start="109" data-line-end="110">numpy</li>
+<li class="has-line-data" data-line-start="110" data-line-end="111">scikit learn</li>
+<li class="has-line-data" data-line-start="111" data-line-end="113">pandas</li>
+</ul>
+<h3 class="code-line" data-line-start=113 data-line-end=114><a id="Dveloppement_web_113"></a>Développement web</h3>
+<ul>
+<li class="has-line-data" data-line-start="115" data-line-end="116">Vue</li>
+<li class="has-line-data" data-line-start="116" data-line-end="117">Node</li>
+</ul>
+<hr>
+<h2 class="code-line" data-line-start=120 data-line-end=121><a id="FAQ_120"></a>FAQ</h2>
+<p class="has-line-data" data-line-start="121" data-line-end="123">Q. Quelle est la précision de votre test?<br>
+R. Minimum 92% et en moyenne 95%.</p>
+<hr>
+<h2 class="code-line" data-line-start=125 data-line-end=126><a id="Droit_dauteur_125"></a>Droit d’auteur</h2>
+<h3 class="code-line" data-line-start=127 data-line-end=128><a id="Equipe_detectoux_127"></a>Equipe detectoux</h3>
+<ul>
+<li class="has-line-data" data-line-start="128" data-line-end="129"><strong>Adrien Leblanc</strong> : Chef de projet</li>
+<li class="has-line-data" data-line-start="129" data-line-end="130">Charles Arnould : Responsable Qualité</li>
+<li class="has-line-data" data-line-start="130" data-line-end="131">Eléna Moréac : Directrice Artistique</li>
+<li class="has-line-data" data-line-start="131" data-line-end="132">Kevin Ngo : Scrum Master</li>
+<li class="has-line-data" data-line-start="132" data-line-end="133">Vincent Tran : Responsable Technique</li>
+<li class="has-line-data" data-line-start="133" data-line-end="135">Yoann Losco : Responsable Communication</li>
+</ul>
+<hr>
+<h3 class="code-line" data-line-start=137 data-line-end=138><a id="Remerciements_137"></a>Remerciements</h3>
+<ul>
+<li class="has-line-data" data-line-start="139" data-line-end="141">Mme Conteville
+<ul>
+<li class="has-line-data" data-line-start="140" data-line-end="141">pour nous avoir aiguillé sur la partie <em>Traitement du signal</em></li>
+</ul>
+</li>
+<li class="has-line-data" data-line-start="141" data-line-end="143">M Diallo
+<ul>
+<li class="has-line-data" data-line-start="142" data-line-end="143">pour ses précieux conseil sur la <em>gestion de projet</em></li>
+</ul>
+</li>
+</ul>
+</body></html>
