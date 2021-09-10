@@ -1,0 +1,283 @@
+date,corona_test,age,gender,medical_history,smoker,patient_reported_symptoms,cough_filename,subname,has_Covid19
+4/22,negative,24.0,female,"none,",no,"New or worsening cough,",neg-0422-098-cough-f-24.mp3,neg-0422-098-cough-f-24-5.mp3,0.0
+4/22,negative,24.0,female,"none,",no,"New or worsening cough,",neg-0422-098-cough-f-24.mp3,neg-0422-098-cough-f-24-1.mp3,0.0
+4/22,negative,24.0,female,"none,",no,"New or worsening cough,",neg-0422-098-cough-f-24.mp3,neg-0422-098-cough-f-24-0.mp3,0.0
+4/22,negative,37.0,male,"none,",no,"none,",neg-0422-097-cough-m-37.mp3,neg-0422-097-cough-m-37-9.mp3,0.0
+4/22,negative,37.0,male,"none,",no,"none,",neg-0422-097-cough-m-37.mp3,neg-0422-097-cough-m-37-8.mp3,0.0
+4/22,negative,37.0,male,"none,",no,"none,",neg-0422-097-cough-m-37.mp3,neg-0422-097-cough-m-37-4.mp3,0.0
+4/22,negative,37.0,male,"none,",no,"none,",neg-0422-097-cough-m-37.mp3,neg-0422-097-cough-m-37-3.mp3,0.0
+4/22,negative,37.0,male,"none,",no,"none,",neg-0422-097-cough-m-37.mp3,neg-0422-097-cough-m-37-1.mp3,0.0
+4/22,positive,31.0,male,"none,",no,"Shortness of breath,New or worsening cough,",pos-0422-096-cough-m-31.mp3,pos-0422-096-cough-m-31-8.mp3,1.0
+4/22,positive,31.0,male,"none,",no,"Shortness of breath,New or worsening cough,",pos-0422-096-cough-m-31.mp3,pos-0422-096-cough-m-31-6.mp3,1.0
+4/22,positive,31.0,male,"none,",no,"Shortness of breath,New or worsening cough,",pos-0422-096-cough-m-31.mp3,pos-0422-096-cough-m-31-2.mp3,1.0
+4/22,positive,31.0,male,"none,",no,"Shortness of breath,New or worsening cough,",pos-0422-096-cough-m-31.mp3,pos-0422-096-cough-m-31-1.mp3,1.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-9.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-8.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-7.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-6.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-5.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-4.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-3.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-2.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-15.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-14.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-13.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-12.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-10.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-1.mp3,0.0
+4/22,negative,53.0,male,"none,",yes,"none,",neg-0422-095-cough-m-53.mp3,neg-0422-095-cough-m-53-0.mp3,0.0
+4/21,positive,51.0,male,"Diabetes with complications,",no,"Fever, chills, or sweating,New or worsening cough,Sore throat,",pos-0421-094-cough-m-51.mp3,pos-0421-094-cough-m-51-7.mp3,1.0
+4/21,positive,51.0,male,"Diabetes with complications,",no,"Fever, chills, or sweating,New or worsening cough,Sore throat,",pos-0421-094-cough-m-51.mp3,pos-0421-094-cough-m-51-6.mp3,1.0
+4/21,positive,51.0,male,"Diabetes with complications,",no,"Fever, chills, or sweating,New or worsening cough,Sore throat,",pos-0421-094-cough-m-51.mp3,pos-0421-094-cough-m-51-5.mp3,1.0
+4/21,positive,51.0,male,"Diabetes with complications,",no,"Fever, chills, or sweating,New or worsening cough,Sore throat,",pos-0421-094-cough-m-51.mp3,pos-0421-094-cough-m-51-4.mp3,1.0
+4/21,positive,51.0,male,"Diabetes with complications,",no,"Fever, chills, or sweating,New or worsening cough,Sore throat,",pos-0421-094-cough-m-51.mp3,pos-0421-094-cough-m-51-3.mp3,1.0
+4/21,positive,51.0,male,"Diabetes with complications,",no,"Fever, chills, or sweating,New or worsening cough,Sore throat,",pos-0421-094-cough-m-51.mp3,pos-0421-094-cough-m-51-2.mp3,1.0
+4/21,positive,51.0,male,"Diabetes with complications,",no,"Fever, chills, or sweating,New or worsening cough,Sore throat,",pos-0421-094-cough-m-51.mp3,pos-0421-094-cough-m-51-0.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-6.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-5.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-2.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-1.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-0.mp3,1.0
+4/21,positive,53.0,male,"none,",no,"Fever, chills, or sweating,Shortness of breath,New or worsening cough,Sore throat,Loss of taste,Loss of smell,",pos-0421-092-cough-m-53.mp3,pos-0421-092-cough-m-53-9.mp3,1.0
+4/21,positive,53.0,male,"none,",no,"Fever, chills, or sweating,Shortness of breath,New or worsening cough,Sore throat,Loss of taste,Loss of smell,",pos-0421-092-cough-m-53.mp3,pos-0421-092-cough-m-53-7.mp3,1.0
+4/21,positive,53.0,male,"none,",no,"Fever, chills, or sweating,Shortness of breath,New or worsening cough,Sore throat,Loss of taste,Loss of smell,",pos-0421-092-cough-m-53.mp3,pos-0421-092-cough-m-53-6.mp3,1.0
+4/21,positive,53.0,male,"none,",no,"Fever, chills, or sweating,Shortness of breath,New or worsening cough,Sore throat,Loss of taste,Loss of smell,",pos-0421-092-cough-m-53.mp3,pos-0421-092-cough-m-53-5.mp3,1.0
+4/21,positive,53.0,male,"none,",no,"Fever, chills, or sweating,Shortness of breath,New or worsening cough,Sore throat,Loss of taste,Loss of smell,",pos-0421-092-cough-m-53.mp3,pos-0421-092-cough-m-53-3.mp3,1.0
+4/21,positive,53.0,male,"none,",no,"Fever, chills, or sweating,Shortness of breath,New or worsening cough,Sore throat,Loss of taste,Loss of smell,",pos-0421-092-cough-m-53.mp3,pos-0421-092-cough-m-53-13.mp3,1.0
+4/21,positive,53.0,male,"none,",no,"Fever, chills, or sweating,Shortness of breath,New or worsening cough,Sore throat,Loss of taste,Loss of smell,",pos-0421-092-cough-m-53.mp3,pos-0421-092-cough-m-53-12.mp3,1.0
+4/21,positive,53.0,male,"none,",no,"Fever, chills, or sweating,Shortness of breath,New or worsening cough,Sore throat,Loss of taste,Loss of smell,",pos-0421-092-cough-m-53.mp3,pos-0421-092-cough-m-53-1.mp3,1.0
+4/21,positive,53.0,male,"none,",no,"Fever, chills, or sweating,Shortness of breath,New or worsening cough,Sore throat,Loss of taste,Loss of smell,",pos-0421-092-cough-m-53.mp3,pos-0421-092-cough-m-53-0.mp3,1.0
+4/21,negative,47.0,male,"none,",no,"New or worsening cough,",neg-0421-091-cough-m-47.mp3,neg-0421-091-cough-m-47-8.mp3,0.0
+4/21,negative,47.0,male,"none,",no,"New or worsening cough,",neg-0421-091-cough-m-47.mp3,neg-0421-091-cough-m-47-7.mp3,0.0
+4/21,negative,47.0,male,"none,",no,"New or worsening cough,",neg-0421-091-cough-m-47.mp3,neg-0421-091-cough-m-47-6.mp3,0.0
+4/21,negative,47.0,male,"none,",no,"New or worsening cough,",neg-0421-091-cough-m-47.mp3,neg-0421-091-cough-m-47-5.mp3,0.0
+4/21,negative,47.0,male,"none,",no,"New or worsening cough,",neg-0421-091-cough-m-47.mp3,neg-0421-091-cough-m-47-4.mp3,0.0
+4/21,negative,47.0,male,"none,",no,"New or worsening cough,",neg-0421-091-cough-m-47.mp3,neg-0421-091-cough-m-47-3.mp3,0.0
+4/21,negative,47.0,male,"none,",no,"New or worsening cough,",neg-0421-091-cough-m-47.mp3,neg-0421-091-cough-m-47-2.mp3,0.0
+4/21,negative,47.0,male,"none,",no,"New or worsening cough,",neg-0421-091-cough-m-47.mp3,neg-0421-091-cough-m-47-1.mp3,0.0
+4/21,negative,17.0,female,"none,",no,"Shortness of breath,Sore throat,Body aches,",neg-0421-090-cough-f-17.mp3,neg-0421-090-cough-f-17-7.mp3,0.0
+4/21,negative,17.0,female,"none,",no,"Shortness of breath,Sore throat,Body aches,",neg-0421-090-cough-f-17.mp3,neg-0421-090-cough-f-17-6.mp3,0.0
+4/21,negative,17.0,female,"none,",no,"Shortness of breath,Sore throat,Body aches,",neg-0421-090-cough-f-17.mp3,neg-0421-090-cough-f-17-5.mp3,0.0
+4/21,negative,17.0,female,"none,",no,"Shortness of breath,Sore throat,Body aches,",neg-0421-090-cough-f-17.mp3,neg-0421-090-cough-f-17-4.mp3,0.0
+4/21,negative,17.0,female,"none,",no,"Shortness of breath,Sore throat,Body aches,",neg-0421-090-cough-f-17.mp3,neg-0421-090-cough-f-17-3.mp3,0.0
+4/21,negative,17.0,female,"none,",no,"Shortness of breath,Sore throat,Body aches,",neg-0421-090-cough-f-17.mp3,neg-0421-090-cough-f-17-2.mp3,0.0
+4/21,negative,17.0,female,"none,",no,"Shortness of breath,Sore throat,Body aches,",neg-0421-090-cough-f-17.mp3,neg-0421-090-cough-f-17-11.mp3,0.0
+4/21,negative,17.0,female,"none,",no,"Shortness of breath,Sore throat,Body aches,",neg-0421-090-cough-f-17.mp3,neg-0421-090-cough-f-17-1.mp3,0.0
+4/21,negative,20.0,female,"none,",no,"none,",neg-0421-089-cough-f-20.mp3,neg-0421-089-cough-f-20-6.mp3,0.0
+4/21,negative,20.0,female,"none,",no,"none,",neg-0421-089-cough-f-20.mp3,neg-0421-089-cough-f-20-5.mp3,0.0
+4/21,negative,20.0,female,"none,",no,"none,",neg-0421-089-cough-f-20.mp3,neg-0421-089-cough-f-20-4.mp3,0.0
+4/21,negative,20.0,female,"none,",no,"none,",neg-0421-089-cough-f-20.mp3,neg-0421-089-cough-f-20-3.mp3,0.0
+4/21,negative,20.0,female,"none,",no,"none,",neg-0421-089-cough-f-20.mp3,neg-0421-089-cough-f-20-2.mp3,0.0
+4/21,negative,20.0,female,"none,",no,"none,",neg-0421-089-cough-f-20.mp3,neg-0421-089-cough-f-20-0.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-8.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-6.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-5.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-4.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-3.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-2.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-1.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-0.mp3,0.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-6.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-5.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-3.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-2.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-1.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-0.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-8.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-7.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-6.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-5.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-4.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-3.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-2.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-1.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-0.mp3,1.0
+4/21,negative,43.0,male,"none,",no,"Sore throat,",neg-0421-085-cough-m-43.mp3,neg-0421-085-cough-m-43-2.mp3,0.0
+4/21,negative,43.0,male,"none,",no,"Sore throat,",neg-0421-085-cough-m-43.mp3,neg-0421-085-cough-m-43-1.mp3,0.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-7.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-6.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-5.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-4.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-3.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-2.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-1.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-0.mp3,1.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-9.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-8.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-7.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-6.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-5.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-4.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-3.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-17.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-16.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-15.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-14.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-13.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-12.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-11.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-10.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-9-B9-i2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-9-B9-i1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-9-B9-i0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-8-B8--h2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-8-B8--h1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-8-B8--h0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-7-B7-g2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-7-B7-g1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-7-B7-g0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-6-B6-f2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-6-B6-f1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-6-B6-f0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-5-B5-e2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-5-B5-e1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-5-B5-e0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-4-B4-d2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-4-B4-d1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-4-B4-d0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-3-B3-c2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-3-B3-c1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-3-B3-c0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-2-B2-b2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-2-B2-b1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-2-B2-b0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-17-B17-q2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-17-B17-q1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-17-B17-q0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-16-B16-p2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-16-B16-p1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-16-B16-p0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-15-B15-o3.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-15-B15-o2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-15-B15-o1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-15-B15-o0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-14-B14-n1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-14-B14-n0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-13-B13-m2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-13-B13-m1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-13-B13-m0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-12-B12-l2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-12-B12-l1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-12-B12-l0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-11-B11-k2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-11-B11-k1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-11-B11-k0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-10-B10-j2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-10-B10-j1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-10-B10-j0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-1-B1-b2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-1-B1-b1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-1-B1-b0.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-0-B0-a2.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-0-B0-a1.mp3,0.0
+4/21,negative,53.0,male,"none,",yes,"none,",neg-0421-083-cough-m-53.mp3,neg-0421-083-cough-m-53-0-B0-a0.mp3,0.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-7-B6-h5.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-7-B6-h4.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-7-B6-h3.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-7-B6-h2.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-7-B6-h1.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-7-B6-h0.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-6-B5-g2.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-6-B5-g1.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-6-B5-g0.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-5-B4-f3.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-5-B4-f2.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-5-B4-f1.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-5-B4-f0.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-4-B4-e3.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-4-B4-e2.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-4-B4-e1.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-4-B4-e0.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-3-B3-d3.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-3-B3-d2.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-3-B3-d1.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-3-B3-d0.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-2-B2-c4.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-2-B2-c3.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-2-B2-c2.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-2-B2-c1.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-2-B2-c0.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-0-B1-b4.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-0-B1-b3.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-0-B1-b2.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-0-B1-b1.mp3,1.0
+4/21,positive,50.0,male,"Congestive heart failure,",no,"Shortness of breath,",pos-0421-084-cough-m-50.mp3,pos-0421-084-cough-m-50-0-B0.mp3,1.0
+4/21,negative,43.0,male,"none,",no,"Sore throat,",neg-0421-085-cough-m-43.mp3,neg-0421-085-cough-m-43-2-B2-b2.mp3,0.0
+4/21,negative,43.0,male,"none,",no,"Sore throat,",neg-0421-085-cough-m-43.mp3,neg-0421-085-cough-m-43-2-B2-b1.mp3,0.0
+4/21,negative,43.0,male,"none,",no,"Sore throat,",neg-0421-085-cough-m-43.mp3,neg-0421-085-cough-m-43-2-B2-b0.mp3,0.0
+4/21,negative,43.0,male,"none,",no,"Sore throat,",neg-0421-085-cough-m-43.mp3,neg-0421-085-cough-m-43-1-B1-a2.mp3,0.0
+4/21,negative,43.0,male,"none,",no,"Sore throat,",neg-0421-085-cough-m-43.mp3,neg-0421-085-cough-m-43-1-B1-a1.mp3,0.0
+4/21,negative,43.0,male,"none,",no,"Sore throat,",neg-0421-085-cough-m-43.mp3,neg-0421-085-cough-m-43-1-B1-a0.mp3,0.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-8-B7-h2.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-8-B7-h1.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-8-B7-h0.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-6-B5-g3.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-6-B5-g2.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-6-B5-g1.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-6-B5-g0.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-5-B5-f3.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-5-B5-f2.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-5-B5-f1.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-5-B5-f0.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-4-B4-e3.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-4-B4-e2.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-4-B4-e1.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-4-B4-e0.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-3-B3-d3.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-3-B3-d2.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-3-B3-d1.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-3-B3-d0.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-2-B2--c3.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-2-B2--c2.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-2-B2--c1.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-2-B2--c0.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-1-B1-b2.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-1-B1-b1.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-1-B1-b0.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-0-B0-a2.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-0-B0-a1.mp3,1.0
+4/21,positive,65.0,male,"Asthma or chronic lung disease,",no,"Shortness of breath,New or worsening cough,",pos-0421-086-cough-m-65.mp3,pos-0421-086-cough-m-65-0-B0-a0.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-5-B4-e2.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-5-B4-e1.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-5-B4-e0.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-3-B3-d2.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-3-B3-d1.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-3-B3-d0.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-2-B2-c2.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-2-B2-c1.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-2-B2-c0.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-1-B1-b2.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-1-B1-b1.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-1-B1-b0.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-0-B0-a3.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-0-B0-a2.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-0-B0-a1.mp3,1.0
+4/21,positive,40.0,female,"none,",no,"Sore throat,Loss of taste,Loss of smell,",pos-0421-087-cough-f-40.mp3,pos-0421-087-cough-f-40-0-B0-a0.mp3,1.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-1-B0-a2.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-1-B0-a1.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-1-B0-a0.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-0-B1-b2.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-0-B1-b1.mp3,0.0
+4/21,negative,66.0,female,"Diabetes with complications,",no,"none,",neg-0421-088-cough-f-66.mp3,neg-0421-088-cough-f-66-0-B1-b0.mp3,0.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-6-B4-e2.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-6-B4-e1.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-6-B4-e0.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-5-B3-d3.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-5-B3-d2.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-5-B3-d1.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-5-B3-d0.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-2-B2-c4.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-2-B2-c3.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-2-B2-c2.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-2-B2-c1.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-2-B2-c0.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-1-B1-b3.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-1-B1-b2.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-1-B1-b1.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-1-B1-b0.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-0-B0-a2.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-0-B0-a1.mp3,1.0
+4/21,positive,24.0,female,"none,",no,"none,",pos-0421-093-cough-f-24.mp3,pos-0421-093-cough-f-24-0-B0-a0.mp3,1.0
